@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:grey ;
+    text-align: center;
+    margin: 50px;
+  }
+  
+  .calculator {
+    width: 180px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  button {
+    flex: 1;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+   border-radius: 100%;
+    
+  }
+  .yellow{
+background-color: orange;  }
+  
+  
